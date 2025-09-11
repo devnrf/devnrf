@@ -15,11 +15,17 @@ I like to mix clean code with real business impact.
 
 ---
 
-## 📌 Current Projects
+# 📌 Current Projects
 
-- 📱 **TradersTracker** → Mobile app for traders (Flutter + Firebase + RevenueCat)  
-- 🐟 **Pescados Natalia** → Management system for wholesalers (Laravel)  
-- 🔒 **ShadowSwap** → Privacy-first mobile app for encrypted communication  
+### 📱 Mobile Apps (Flutter + Firebase + RevenueCat)
+- **TradersTracker** → Habit & Trading Journal app (habits, PnL, stats, community).  
+- **Attentia** → Gamified productivity app for ADHD with mini-games.  
+- **Erectus / Ascend** → Self-improvement & male health app with premium paywall.  
+- **ShadowSwap** → Privacy-first app for temporary identities, encrypted communication & self-destruction.  
+- **Pescagps** → GPS mobile app for fishermen in Spain, with monetization features.  
+
+### 🐟 LonjaPro Ecosystem (Laravel + Bootstrap)
+- **LonjaPro** → SaaS management system for seafood wholesalers (multi-tenant).
 
 ---
 
